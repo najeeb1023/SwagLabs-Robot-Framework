@@ -20,5 +20,6 @@ Login Test Case
 
 
     Enter Login Details and Login
+    Scroll and Select Item
 
 
