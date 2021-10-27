@@ -16,5 +16,5 @@ Scroll and Select Item
 
     scroll element into view    xpath:/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[6]/div[1]/a[1]/img[1]
     click element    xpath:/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[6]/div[1]/a[1]/img[1]
-
+    click element   xpath://button[@id='add-to-cart-test.allthethings()-t-shirt-(red)']
 
