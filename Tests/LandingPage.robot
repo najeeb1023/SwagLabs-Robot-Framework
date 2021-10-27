@@ -6,7 +6,7 @@ Resource    ../Resources/LandingPage_UserDefinedKeywords.robot
 Documentation    Login Functionality
 
 Test Setup    Start TestCase
-Test Teardown    Finish TestCase
+Test Teardown    End TestCase
 
 *** Variables ***
 
