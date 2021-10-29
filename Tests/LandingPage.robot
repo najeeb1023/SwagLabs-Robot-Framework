@@ -20,6 +20,14 @@ Login Test Case
 
 
     Enter Login Details and Login
-    Scroll and Select Item
+    sleep    2
+    Scroll and Select Red T-Shirt
+    sleep   2
+    Back to Products Page
+    sleep    2
+    Scroll and Select Onesie Shirt
+    sleep   2
+    Back to Products Page
+    sleep   2
 
 

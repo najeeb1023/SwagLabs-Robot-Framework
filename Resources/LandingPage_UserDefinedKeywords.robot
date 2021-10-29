@@ -12,9 +12,18 @@ Enter Login Details and Login
     input text    xpath://input[@id='password']    secret_sauce
     click element    xpath:/html/body/div[1]/div/div[2]/div[1]/div[1]/div/form/input
 
-Scroll and Select Item
+Scroll and Select Red T-Shirt
 
     scroll element into view    xpath:/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[6]/div[1]/a[1]/img[1]
     click element    xpath:/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[6]/div[1]/a[1]/img[1]
     click element   xpath://button[@id='add-to-cart-test.allthethings()-t-shirt-(red)']
 
+Back to Products Page
+
+    click element   xpath://button[@id='back-to-products']
+
+Scroll and Select Onesie Shirt
+
+    scroll element into view    xpath:/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[2]/div[1]/a[1]/div[1]
+    click element   xpath:/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[2]/div[1]/a[1]/div[1]
+    click element   xpath://button[@id='add-to-cart-sauce-labs-onesie']
