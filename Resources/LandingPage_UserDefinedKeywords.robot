@@ -27,3 +27,9 @@ Scroll and Select Onesie Shirt
     scroll element into view    xpath:/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[2]/div[1]/a[1]/div[1]
     click element   xpath:/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[2]/div[1]/a[1]/div[1]
     click element   xpath://button[@id='add-to-cart-sauce-labs-onesie']
+
+Enter Inventory
+
+    click element    xpath://button[@id='react-burger-menu-btn']
+    wait until element is visible      xpath://a[@id='reset_sidebar_link']
+    click element   xpath://a[@id='reset_sidebar_link']

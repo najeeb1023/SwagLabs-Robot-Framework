@@ -29,5 +29,7 @@ Login Test Case
     sleep   2
     Back to Products Page
     sleep   2
+    Enter Inventory
+    sleep   2
 
 
