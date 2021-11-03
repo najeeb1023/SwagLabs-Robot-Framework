@@ -3,7 +3,7 @@
 Resource    ../Resources/CommonFunctionality.robot
 Resource    ../Resources/LandingPage_UserDefinedKeywords.robot
 
-Documentation    Login Functionality
+Documentation    Login and Placing Order Functionality
 
 Test Setup    Start TestCase
 Test Teardown    End TestCase
@@ -15,8 +15,8 @@ Test Teardown    End TestCase
 *** Test Cases ***
 
 Login Test Case
-    [Documentation]    This Test Case Verifies Successful Login
-    [Tags]  Login Functionality
+    [Documentation]    This Test Case Verifies Successful Login and Successful Order Placement
+    [Tags]  Login Functionality and Order Placement Functionality
 
 
     Enter Login Details and Login
