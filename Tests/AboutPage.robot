@@ -11,3 +11,6 @@ About Page Test Case
 
     [Documentation]    This Test Case Verifies The About Page
     [Tags]  About Page Positive Testing
+
+
+    Click About Page

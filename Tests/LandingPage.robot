@@ -2,6 +2,7 @@
 
 Resource    ../Resources/CommonFunctionality.robot
 Resource    ../Resources/LandingPage_UserDefinedKeywords.robot
+Resource    ../Resources/AboutPage_UserDefinedKeywords.robot
 
 Documentation    Login and Placing Order Functionality
 
@@ -31,5 +32,6 @@ Login Test Case
     sleep   2
     Enter Inventory
     sleep   2
+    Click About Page
 
 
