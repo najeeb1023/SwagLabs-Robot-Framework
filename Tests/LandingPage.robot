@@ -33,5 +33,8 @@ Login Test Case
     Enter Inventory
     sleep   2
     Click About Page
+    sleep    2
+    Chat With Bot
+    sleep   2
 
 

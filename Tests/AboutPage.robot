@@ -14,3 +14,4 @@ About Page Test Case
 
 
     Click About Page
+    Chat With Bot
